@@ -1,5 +1,5 @@
 # Databases-236363-SQL-assignment
-
+Winter semester 2021-22. Done by Ido Amit and Dorin Shteyman as part of Database course at the Technion.
 Full instructions under the PDF attached here: 'hw2 - instructions'
 
 General Description:
